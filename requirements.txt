@@ -1,0 +1,2 @@
+onedrivesdk==2.0.1
+PyECLib==1.2.0
