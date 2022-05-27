@@ -11,10 +11,17 @@ are placed on each of the disks. Thus, the original data can be restored if up t
 ## Installation
 Creation of virtual environment:
 
-    $ pip install -r requirements.txt
+    $ python3 -m venv venv
+    
 Activation of virtual environment:
-
+    
     $ source venv/bin/activate
+ 
+Installing required dependencies:
+
+    $ pip install -r requirements.txt
+
+
     
 ## Getting started
 A configuration file has already been created in the project itself, as well as test data and a storage directory. Below is an instruction for the general case.
